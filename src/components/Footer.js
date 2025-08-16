@@ -16,6 +16,7 @@ export const Footer = () => {
             <a
               href="https://www.instagram.com/mr___charan___cherry___?igsh=emQzYjUwbjMxZ3N1 "
               target="_blank"
+              rel="noreferrer"
               className="hover:underline me-4 md:me-6"
             >
               Instgram
@@ -25,6 +26,7 @@ export const Footer = () => {
             <a
               href="https://www.linkedin.com/in/charandeep-royal"
               target="_blank"
+              rel="noreferrer"
               className="hover:underline me-4 md:me-6"
             >
               Linkdin
@@ -34,6 +36,7 @@ export const Footer = () => {
             <a
               href="https://www.youtube.com/@charantechpro3922"
               target="_blank"
+              rel="noreferrer"
               className="hover:underline me-4 md:me-6"
             >
               YouTube
@@ -43,6 +46,7 @@ export const Footer = () => {
             <a
               href="https://github.com/Charan12092002"
               target="_blank"
+              rel="noreferrer"
               className="hover:underline"
             >
               Github
